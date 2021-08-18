@@ -1,3 +1,5 @@
+package datastructure;
+
 /**
  * 53. 最大子序和
  * 给定一个整数数组 nums

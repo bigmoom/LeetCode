@@ -1,3 +1,5 @@
+package datastructure;
+
 /**
  *
  * 给定一个数组 prices
